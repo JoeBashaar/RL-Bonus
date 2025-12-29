@@ -199,7 +199,7 @@ The system includes comprehensive parameter validation:
 │                    Backend (Python)                          │
 │  ┌─────────────┐ ┌─────────────┐ ┌─────────────────────────┐│
 │  │ Algorithms  │ │Environments │ │    Utilities            ││
-│  │ (10 total)  │ │ (7 total)   │ │ (Validation, Viz Data)  ││
+│  │ (10 total)  │ │ (6 total)   │ │ (Validation, Viz Data)  ││
 │  └─────────────┘ └─────────────┘ └─────────────────────────┘│
 └─────────────────────────────────────────────────────────────┘
 ```
